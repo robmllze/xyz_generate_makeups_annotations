@@ -1,15 +1,5 @@
 name: xyz_generate_makeups_annotations
-description: A new Flutter package project.
-version: 0.0.1
+version: 0.1.0
 publish_to: none
 environment:
   sdk: '>=3.0.0-218.1.beta <4.0.0'
-  flutter: ">=1.17.0"
-dependencies:
-  flutter:
-    sdk: flutter
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
-flutter:
